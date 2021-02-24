@@ -29,3 +29,5 @@ public:
 		return func(nums, 0, n - 1);
 	}
 };
+// TC - O(n): T(n) = 2T(n/2) + O(1)
+// SC - O(logN) recursion stack at any instant
