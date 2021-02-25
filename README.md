@@ -2,4 +2,4 @@
 CTCI problems -> Leetcode problems
 
 # link
-https://github.com/JanaSabuj/ctci-leetcode
+https://ryanym.com/posts/ctci-on-leetcode/
